@@ -1,7 +1,0 @@
-restpoints\ApplicationConfig.class
-entity\DB_create.class
-dto\BankCustomerDTO.class
-restpoints\Customer.class
-entity\BankCustomer.class
-facade\CustomerFacade.class
-entity\BankCustomer_.class

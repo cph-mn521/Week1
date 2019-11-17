@@ -1,40 +1,17 @@
-# Uge 1 mål
+[![Build Status](https://travis-ci.org/dat3startcode/rest-jpa-devops-startcode.svg?branch=master)](https://travis-ci.org/dat3startcode/rest-jpa-devops-startcode)
 
-Uge 1 var en copy paste uge, hvor vi lærte at bruge entity's.
+*This project is meant as start code for projects and exercises given in Flow-1+2 at http://cphbusiness.dk in the Study Program "AP degree in Computer Science"*
 
-Alle opgaver er lavet helt som det er beskrevet i opgave beskrivelserne. Der er ikke lavet mere selvstændigt
+*Projects which are expected to use this start-code are projects that require all, or most of the following technologies:*
+ - *JPA and REST*
+- *Testing, including database test*
+- *Testing, including tests of REST-API's*
+- *CI and CONTINUOUS DELIVERY*
 
-## Tirsdags opgaven
+### Preconditions
+*In order to use this code, you should have a local developer setup + a "matching" droplet on Digital Ocean as described in the 3. semester guidelines* 
+# Getting Started
 
-Mål, sæt en entity klasse op, og lav en facade og en main metode til at fylde databasen ud.
-
-
-
-## Onsdags opgaven:
-
-Lav en entity som bliver kaldt af et RESTpoint API.
-
-## Torsdags opgaven:
-
-Det samme som onsdag, men tilføjet en DTO klasse som fungere som et view i SQL.
-Der er også tilføjet tests.
-
-## Fredags opgaven:
-
-Samme som torsdags opgaven, har lavet test metoder der cleaner databasen.
-
-
-## Mappe struktur:
-
-Jeg har undladt alt netbeans projekt fil i min git ignore, så alt der ligger i mapperne er kun kode og xml filer. Altså, ting der ikke har med koden at gøre.
-
-### Hvad er lavet?
-
-Alt. alle opgaver og delopgaver, også et par test med for at vise jeg kan.
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-* [Maven](https://maven.apache.org/) - Dependency Management
+This project contains two major documentation files: 
+ - [First time users - getting started](README_proof_of_concept.md)
+ - [How to use for future projects](README_how_to_use.md)
